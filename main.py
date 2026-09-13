@@ -1,3 +1,2 @@
 print('main')
-
-pizda
+print('main2')
