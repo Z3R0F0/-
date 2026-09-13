@@ -1,1 +1,3 @@
-print('хуй')
+print('main')
+
+xyi
